@@ -1,0 +1,8 @@
+{
+  "name": "Smart Tab Archive",
+  "description": "Intelligent link archiving with Gemini AI analysis, 768-dim semantic vector search, structured summaries, and conversational memory retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
